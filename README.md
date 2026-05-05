@@ -56,7 +56,7 @@ If you are looking for a developer who understands product, business logic, and 
   <a href="https://orvixio.netlify.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio_&_Agency-000000?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="https://linkedin.com/in/manuel-mediavilla-aja-5b5777388" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://profile.indeed.com/p/manuelm-fk8nzl4" target="_blank">
+    <img src="https://img.shields.io/badge/Indeed-003A9B?style=for-the-badge&logo=indeed&logoColor=white" alt="Indeed" />
   </a>
 </p>
