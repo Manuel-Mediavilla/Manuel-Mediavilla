@@ -9,9 +9,12 @@ I build end-to-end production systems and leverage AI to optimize workflows. Cur
 ---
 
 ### 💡 What I Do
-*   🏢 **Full-Stack Engineering:** Built and deployed a complete municipal management system for a local government in Spain from scratch (Backend in Laravel 12, Web SPA in Vue 3, and Native App in React Native).
-*   🤖 **AI & Automation (Orvixio):** Founder of [Orvixio](https://orvixio.netlify.app), an agency helping businesses automate 24/7 client interactions and internal workflows using LLMs, n8n, and Make.com.
-*   📈 **Impact:** My automation pipelines have reduced manual operational time for clients by up to **70%**.
+### 💡 Featured Businesses & Projects
+*   🤖 **[Orvixio - AI Automation Agency](https://orvixio.netlify.app):** Founder and Lead Developer. I build autonomous AI assistants and data pipelines (OpenAI, n8n, Make) that handle 24/7 client interactions and reduce manual workflows by up to 70%.
+*   🚖 **[Santander Taxi7](https://santandertaxi7.es/):** Full-Stack development and deployment for a local taxi service in Santander, Spain. Focused on fast load times, SEO optimization, and direct client acquisition.
+*   🏢 **Public Administration System (NDA):** Built a complete municipal management system from scratch for a local government. The architecture features a Laravel 12 API, a Vue 3 web dashboard, and a native React Native app with NFC capabilities for field workers.
+
+---
 
 ---
 
